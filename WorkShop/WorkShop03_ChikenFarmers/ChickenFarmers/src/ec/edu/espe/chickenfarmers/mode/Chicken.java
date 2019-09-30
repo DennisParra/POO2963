@@ -17,7 +17,7 @@ public class Chicken {
     private boolean isMolting;
     
     public void doStuff(int forTime){
-        System.out.println("My chicken" + getName() + "is doing things");
+        System.out.println("My chicken " + getName() + " is doing things");
         cluck();
         wander();
         eat();
@@ -41,7 +41,7 @@ public class Chicken {
         System.out.println(getName() + "is eating");
     }
     
-    private void drink(){
+    void drink(){
         System.out.println(getName() + "is drinking");
     }
     
