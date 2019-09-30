@@ -22,7 +22,7 @@ public class ChikenFarmers {
         
         chicken.doStuff(0);
         
-        Chicken.chicken[];
+        //Chicken.chicken[];
     }
     
 }

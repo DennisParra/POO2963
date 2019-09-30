@@ -50,7 +50,7 @@ public class Chicken {
     }
     
     private Egg layAnEgg(){
-        retunr new egg();
+        return new Egg();
     }
 
     /**
