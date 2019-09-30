@@ -25,7 +25,8 @@ public class Chicken {
         poop();
         cluck();
         cluck();
-        drink();       
+        drink();
+        
         
     } 
     
@@ -34,19 +35,19 @@ public class Chicken {
     }
     
     private void wander(){
-        System.out.println(getName() + "is wandering");
+        System.out.println(getName() + " is wandering");
     }
     
     private void eat (){
-        System.out.println(getName() + "is eating");
+        System.out.println(getName() + " is eating");
     }
     
     void drink(){
-        System.out.println(getName() + "is drinking");
+        System.out.println(getName() + " is drinking");
     }
     
     private void poop(){
-        System.out.println(getName() + "is pooping");
+        System.out.println(getName() + " is pooping");
     }
     
     private Egg layAnEgg(){
