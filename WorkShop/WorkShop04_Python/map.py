@@ -1,8 +1,6 @@
-def doblar(numero):
-    return numero*2
 
-numeros = [2, 5, 10, 23, 50, 33]
 
-map(doblar, numeros)
+a = [1, 2, 3, 4, 5]
+b = [6, 7, 8, 9, 10]
 
-list( map(lambda x: x*2, numeros) )
+list( map(lambda x,y : x*y, a,b) )
