@@ -5,7 +5,9 @@ public class Main {
 // ++ despues, version sufijo
 // primero asigna luego aumenta
 
-//++ antes, version prefijo
+// ++ antes, version prefijo
 // primero aumenta luego asigna
-        int y = ++x;
+        int y = x++;
         System.out.println("x = " + x + "\n y = " + y);
+    }
+}
