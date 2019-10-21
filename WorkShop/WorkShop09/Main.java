@@ -24,7 +24,7 @@ public class Main {
 
             String name = vector[0];
             int age = Integer.parseInt(vector[1]);
-            float dni = Integer.parseInt(vector[2]);
+            String dni = vector[2];
 
             Person person = new Person(name, age, dni);
 

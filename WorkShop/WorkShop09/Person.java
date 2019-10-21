@@ -2,13 +2,13 @@ public class Person {
 
     private String name;
     private int age;
-    private float dni;
+    private String dni;
 
     public Person() {
 
     }
 
-    public Person(String name, int age, float dni) {
+    public Person(String name, int age, String dni) {
         this.name = name;
         this.age = age;
         this.dni = dni;
@@ -31,11 +31,11 @@ public class Person {
         this.age = age;
     }
 
-    public float getDni() {
+    public String getDni() {
         return dni;
     }
 
-    public void setDni(float dni) {
+    public void setDni(String dni) {
         this.dni = dni;
     }
 
