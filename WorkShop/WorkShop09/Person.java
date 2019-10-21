@@ -1,15 +1,17 @@
-public class Person{
+public class Person {
 
     private String name;
     private int age;
+    private float dni;
 
-    public Person(){
+    public Person() {
 
     }
 
-    public Person(String name, int age){
+    public Person(String name, int age, float dni) {
         this.name = name;
         this.age = age;
+        this.dni = dni;
 
     }
 
@@ -27,6 +29,14 @@ public class Person{
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public float getDni() {
+        return dni;
+    }
+
+    public void setDni(float dni) {
+        this.dni = dni;
     }
 
 }

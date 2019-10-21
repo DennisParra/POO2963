@@ -1,7 +1,3 @@
-#from functions.training import print_number_pairs
-#from functions.training import square_number
-#from objects import Career, student
-
 def validate_dni (dni: str):
     naked_dni = dni[:9]
     digit = dni[-1]
