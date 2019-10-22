@@ -3,13 +3,13 @@ package ec.edu.espe.demo.util;
 public class Person {
     private String name;
     private int age;
-    private int dni;
+    private String dni;
 
     public Person() {
 
     }
 
-    public Person(String name, int age, int dni) {
+    public Person(String name, int age, String dni) {
         this.name = name;
         this.age = age;
         this.dni = dni;
@@ -31,11 +31,11 @@ public class Person {
         this.age = age;
     }
 
-    public int getDni() {
+    public String getDni() {
         return dni;
     }
 
-    public void setDni(int dni) {
+    public void setDni(String dni) {
         this.dni = dni;
     }
 
