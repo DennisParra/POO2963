@@ -21,9 +21,9 @@ public class DemoRestController {
         return "ADIOOOOOS!!";
     }
 
-    @GetMapping(value = "/callme/{name}/{age}")
-    public Person name(@PathVariable String name, @PathVariable int age) {
-        return new Person(name, age);
+    @GetMapping(value = "/callme/{name}/{age}/{dni}")
+    public Person name(@PathVariable String name, @PathVariable int age, @PathVariable int dni) {
+        return new Person(name, age, dni);
     }
 
 }
