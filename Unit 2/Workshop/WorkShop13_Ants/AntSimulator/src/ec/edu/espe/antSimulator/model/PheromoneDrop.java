@@ -10,5 +10,12 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class PheromoneDrop {
-    
+
+    String pheromone = ("Trabajar, Comer, Construir");
+    private int currentLevel;
+
+    public void run() {
+        System.out.println("Siguiendo las feromonas, las hormigas pueden "+ pheromone);
+    }
+
 }

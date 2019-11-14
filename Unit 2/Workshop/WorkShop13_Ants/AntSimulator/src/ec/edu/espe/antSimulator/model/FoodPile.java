@@ -10,5 +10,12 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class FoodPile {
-    
+
+    private Cell position;
+    private int pileAmount;
+
+    public Food yieldfood(int amount) {
+        throw new UnsupportedOperationException();
+    }
+
 }

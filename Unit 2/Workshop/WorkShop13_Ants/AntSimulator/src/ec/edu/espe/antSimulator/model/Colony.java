@@ -10,5 +10,10 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class Colony {
-    
+
+    public int num = 3;
+
+    public void Run() {
+        System.out.println("Hay " + num + " hormigas");
+    }
 }

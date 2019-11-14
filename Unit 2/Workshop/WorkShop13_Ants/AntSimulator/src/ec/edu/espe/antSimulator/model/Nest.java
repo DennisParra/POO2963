@@ -10,5 +10,8 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class Nest {
-    
+
+    int nido = 45;
+    private Cell position;
+
 }

@@ -10,7 +10,6 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class Food {
-    
-   
-    
+
+    private int amount;
 }

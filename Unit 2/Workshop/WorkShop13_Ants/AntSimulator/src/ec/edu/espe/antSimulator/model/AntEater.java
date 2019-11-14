@@ -10,5 +10,16 @@ package ec.edu.espe.antSimulator.model;
  * @author HP
  */
 public class AntEater {
+    String eater = ("hormigas e insectos");
+    private Cell position;
+    private int antEatenCounter;
+    private int runCounter;
+    private enum state{
+        
+    }
+    
+    public void run(){
+        System.out.println("El depredador de la hormiga puede comer: " + eater);
+    }
     
 }

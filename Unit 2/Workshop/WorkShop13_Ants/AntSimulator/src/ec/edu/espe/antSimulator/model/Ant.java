@@ -11,4 +11,11 @@ package ec.edu.espe.antSimulator.model;
  */
 public class Ant {
     
+    private int weight;
+    private Cell position;
+    
+    public void run(){
+        
+    }
+    
 }
