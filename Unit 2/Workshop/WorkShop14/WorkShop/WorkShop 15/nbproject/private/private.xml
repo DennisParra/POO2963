@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/SystemAdminUser.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Comment.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/PasswordCriteria.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/EndDate.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Login_GUI/Form.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Folders/RootFolder.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Folders/Folder.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/PasswordGenerator.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/TrustedFriend.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Login_GUI/LoginForm.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Reminders.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/User.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Username.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/DesktopApplicationAccount.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/InformationOwner.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/User_Authentication/UserSession.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/WebBasedAccount.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/StartDate.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/Note.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/User_Authentication/Authenticator.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/User_Authentication/User.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/Password.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/InformationUser.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/Account.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Password.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/Password_Genetator/Main.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Password_Generator/PasswordFragment.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Property.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/User_Authentication/SetActiveUser.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/TrustFriendGroup.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Folders/InformationNode.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/Account.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/KeyClass/AccountNote.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/ComputerNetworkAccount.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/PhysicalAccessAccount.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Folders/AccountNote.java</file>
+            <file>file:/C:/Users/Usuario/Desktop/P.O.O_2963/P.O.O_2963/Second%20Unity/WorkShop/WorkShop%2015/src/ec/edu/espe/model/Accounts/Account.java</file>
+        </group>
+    </open-files>
+</project-private>
