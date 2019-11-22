@@ -16,20 +16,20 @@ public class Main {
      */
     public static void main(String[] args) {
         //Int, Float, Double
-        int catetoOp = 7;
-        float catetoAd = 9.1516f;
-        double hipotenusa = 15.123456;
+        byte catetoOp = 7;
+        short catetoAd = (short) 9.1516;
+        long hipotenusa = (long) 15.123456;
         double leyCoseno;
-        double resultadoLeyCoseno;
+        int resultadoLeyCoseno;
         double radianCoseno;
 
         leyCoseno = ((Math.pow(catetoOp, 2)) + (Math.pow(catetoAd, 2)) - (Math.pow(hipotenusa, 2))) / (2 * (catetoOp) * (catetoAd));
         radianCoseno = Math.acos(leyCoseno);
-        resultadoLeyCoseno = Math.toDegrees(radianCoseno);
+        resultadoLeyCoseno = (int) Math.toDegrees(radianCoseno);
 
         System.out.println("Se tiene un triangulo y se desea encontrar uno de sus angulos mediante la Ley de Cosenos");
         System.out.println("El resultado para encontrar el Cos B es = " + leyCoseno);
-        System.out.println("El resultado final del angulo es " + "\nB = " + resultadoLeyCoseno + "°");
+        System.out.println("El resultado final del angulo sin decimales es: " + "\nB = " + resultadoLeyCoseno + "°");
 
         //String y Char
         char caracter = 'e';
