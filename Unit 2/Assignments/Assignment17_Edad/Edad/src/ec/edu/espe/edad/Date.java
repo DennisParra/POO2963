@@ -11,7 +11,7 @@ import java.util.Calendar;
  *
  * @author Fred & Dennis
  */
-public class ExtractDate {
+public class Date {
 
     public int calculardays(Calendar fechaNac) {
         Calendar fechaActual = Calendar.getInstance();

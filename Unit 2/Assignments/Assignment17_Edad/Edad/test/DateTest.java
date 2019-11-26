@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-
+import java.util.Date;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -19,11 +19,11 @@ public class DateTest {
     
      @Test
     public void testSomeMethod() {
-        int day = 15;
-        int month = 5;
-        int year = 2018;
-        int fecha = day + month + year;
-        assertEquals(fecha,10);
+        System.out.println("");
+        String fecha = ("17-12-1970");
+        int expResult = 48;
+        int result=(int) Date.parse(fecha);
+        assertEquals(expResult,result);
     }
     
     
