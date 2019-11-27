@@ -16,8 +16,12 @@ public class Polimorfismo {
      */
     public static void main(String[] args) {
         Cage cage = new Cage(1, "wood", 1, 1);
-        Animal animal = new Animal (1, "Pepito", "Male", 5, cage);
-        System.out.println(animal);
+        Animal animal1 = new Animal (1, "Pepito", "Male", 5, cage);
+        Animal animal2 = new Animal (2, "Juana", "Female", 4, cage);
+        Animal animal3 = new Animal (3, "Sapin", "Male", 2, cage);
+        System.out.println(animal1);
+        System.out.println(animal2);
+        System.out.println(animal3);
         
     }
     

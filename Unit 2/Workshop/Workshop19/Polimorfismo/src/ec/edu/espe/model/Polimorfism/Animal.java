@@ -27,7 +27,7 @@ public class Animal {
 
     public Animal(int id, String name, String gender, float weight, Cage cage) {
 
-        System.out.println("Animal constructor");
+        //System.out.println("Animal constructor");
         this.id = id;
         this.name = name;
         this.gender = gender;

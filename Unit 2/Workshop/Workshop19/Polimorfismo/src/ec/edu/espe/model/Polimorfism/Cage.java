@@ -25,9 +25,10 @@ class Cage {
 
     @Override
     public String toString() {
-        return "xPosition=" + xPosition + ", yPosition=" + yPosition;
+        return "Cage{" + "id = " + id + ", material = " + material + ", xPosition = " + xPosition + ", yPosition = " + yPosition + '}';
     }
 
+  
 
     /**
      * @return the id
