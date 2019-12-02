@@ -13,6 +13,7 @@ public class Reptile extends Animal {
     
     private boolean extremities;
 
+
     public Reptile(boolean extremities, int id, String name, String gender, float weight, Cage cage) {
         super(id, name, gender, weight, cage);
         this.extremities = extremities;
@@ -37,6 +38,6 @@ public class Reptile extends Animal {
     public void setExtremities(boolean extremities) {
         this.extremities = extremities;
     }
-    
+   
     
 }
